@@ -1,0 +1,16 @@
+# WiFi Tactical Sonar — Python dependencies
+#
+# The dashboard (wifi_dashboard.py) uses only the Python standard library.
+# No pip packages are required to run this project.
+#
+# Minimum Python version: 3.8+
+#
+# System packages (install via apt/dnf/pacman, not pip):
+#   - aircrack-ng  (airmon-ng, airodump-ng, aireplay-ng)
+#   - iw, iproute2 (iw, ip)
+#   - wireless-tools (iwconfig)
+#   - python3-tk   (Tkinter GUI)
+#
+# Optional:
+#   - mdk4         (extra deauth flood in unlimited attack mode)
+#   - beep         (dashboard audio feedback)
