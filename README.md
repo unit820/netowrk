@@ -57,8 +57,8 @@ sudo apt install -y mdk4 beep
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/wifi-tactical-sonar.git
-cd wifi-tactical-sonar
+git clone https://github.com/unit820/netowrk.git
+cd netowrk
 
 chmod +x wifi.sh wifi_dashboard.py
 ```
@@ -159,4 +159,4 @@ This software is provided for **education and authorized security testing only**
 
 ## License
 
-Add your license here (e.g. MIT, GPL-3.0) before publishing to GitHub.
+Free to use for security researcher's and students for educational perpose only.
